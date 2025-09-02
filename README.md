@@ -1,2 +1,4 @@
 # ibm-project
-gitHub enforces that repository names must be no more than long, and, after replacing invalid characters or removing a .git suffix, the final name must still stay within that limit. Valid characters include letters, numbers, hyphens (-), underscores (_), and periods (.). GitHub Dong Tien Vietnam  According to a trusted compilation of 
+project‑python‑sdk — A Python SDK for managing infrastructure as code in IBM Cloud. 
+project‑go‑sdk — A Go client library for IBM Cloud project services. 
+project‑node‑sdk — A Node.js client SDK to interact with IBM Cloud project APIs. 
